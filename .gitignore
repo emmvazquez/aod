@@ -1,0 +1,9 @@
+cache/
+core/
+helpers/
+hooks/
+languaje/
+logs/
+third_party/
+.htaccess
+index.html
