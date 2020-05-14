@@ -99,8 +99,6 @@
     $data['Id'] = "grafica";
     $data['Contenido'] = $this->GraficasM->getTotalVentas();
 
-
-
     $this->load->view('head',$data);
     $this->load->view('graficas/graficaBD');
     $this->load->view('footer');
