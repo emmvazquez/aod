@@ -109,7 +109,6 @@
 
   public function graficaJson(){
     print "hola";
-    print "modificación";
   }
 
 
